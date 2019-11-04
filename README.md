@@ -4,7 +4,7 @@
 *	Experience working with object-oriented programming; developing testing and debugging code
 *	Strong troubleshooting and problem-solving skills with an analytical mindset
 
-1. Skills & Tools
+* Skills & Tools
   1. HTML
   1. CSS
   1. JavaScript
