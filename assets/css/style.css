@@ -27,7 +27,7 @@ li a {
   border-right: solid 0.5px #777777;
 }
 
-.list {
+.navbar {
   margin-right: 195px;
   margin-top: 35px;
   padding: 0;
@@ -50,7 +50,7 @@ body {
 
 .container {
   width: 960px;
-  overflow: auto;
+  overflow: hidden;
   margin: 0 auto;
   padding-bottom: 60px;
 }
@@ -58,7 +58,7 @@ body {
 .content {
   width: 960px;
   background-color: #ffffff;
-  overflow: auto;
+  overflow: hidden;
   align-content: center;
   padding: 22px;
   margin: 0 auto;
